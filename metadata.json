@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mutah University Language Center Chatbot",
+  "description": "مساعد ذكي لمركز اللغات في جامعة مؤتة، يقدم معلومات حول امتحانات المستوى والدورات التدريبية ومتطلبات الجامعة.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
